@@ -1,0 +1,6 @@
+@TDSolution_HostAddress = http://localhost:5287
+
+GET {{TDSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
